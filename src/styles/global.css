@@ -486,8 +486,7 @@ h3 {
 
 .about-amtf__link {
   color: var(--text);
-  text-decoration: underline;
-  text-underline-offset: 0.15em;
+  text-decoration: none;
 }
 
 .about-amtf__link:hover {
